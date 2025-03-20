@@ -1,6 +1,6 @@
-# -Monte-Carlo-Tree-Search-algorithm-and-Q-learning-algorithm-
+# Monte Carlo Tree Search algorithm and Q learning algorithm 
  Monte Carlo Tree Search algorithm and Q learning algorithm 
-# Monte Carlo Tree Search (MCTS) and Q-Learning for Connect Four
+# Monte Carlo Tree Search and Q Learning for Connect Four
 
 This project implements Monte Carlo Tree Search (MCTS) and Q learning algorithms for the game of Connect Four. The goal is to train and evaluate AI agents using these two methods and compare their performance against human players and each other.
 

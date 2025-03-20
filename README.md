@@ -5,17 +5,17 @@
 This project implements Monte Carlo Tree Search (MCTS) and Q learning algorithms for the game of Connect Four. The goal is to train and evaluate AI agents using these two methods and compare their performance against human players and each other.
 
 ## Features
-- Monte Carlo Tree Search (MCTS) 
+- Monte Carlo Tree Search 
   - Tree expansion, selection, backpropagation, and simulation.
   - Exploration-exploitation trade-off using UCB1 formula.
   - AI vs AI and AI vs Human gameplay.
   
-- Q-learning
+- Q learning
   - Reinforcement learning approach to improve decision-making.
   - Uses state-action value updates based on rewards.
   - Learns from self-play and randomized opponents and with Monte carlo tree search algorithm  
 
-- Training & Evaluation
+- Training 
   - Simultaneous training of MCTS and Q-learning.
   - Performance testing between different AI models.
   - Graphical interface for playing against AI.
